@@ -11,6 +11,7 @@ namespace ConsoleApp1
         public void S() { 
             i = 1;
             i = 123;
+            i = 456;
         }
     }
 }
