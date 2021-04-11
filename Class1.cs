@@ -6,5 +6,10 @@ namespace ConsoleApp1
 {
     class Class1
     {
+        int i = 0;
+
+        public void S() { 
+            i = 1; 
+        }
     }
 }
