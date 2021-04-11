@@ -9,7 +9,8 @@ namespace ConsoleApp1
         int i = 0;
 
         public void S() { 
-            i = 1; 
+            i = 1;
+            i = 123;
         }
     }
 }
