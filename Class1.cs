@@ -12,6 +12,7 @@ namespace ConsoleApp1
             i = 1;
             i = 123;
             i = 456;
+            i = 111;
         }
     }
 }
